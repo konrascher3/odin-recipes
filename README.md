@@ -1,7 +1,7 @@
 Simple HTML project to get familiar with 
 
   * the HTML structre, 
-  * adding sorted lists unsorted lists, paragraphs and pictures,
+  * adding sorted lists, unsorted lists, paragraphs and pictures,
   * adding different heading elements,
   * using both internal and external links.
 
