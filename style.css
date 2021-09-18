@@ -1,0 +1,76 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, cursive;
+}
+
+h1 {
+    padding-top: 20px;
+    font-family:monospace ;
+    text-align: center;
+    background-image: linear-gradient(180deg, #ff0000fd, #001aff);
+    text-shadow:1px 1px 10px rgb(13, 8, 255);
+    -webkit-text-stroke: 1px rgba(119, 0, 255, 0.596) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2, h3, h4 {
+    padding-left: 15px;
+}
+
+p {
+    padding-left: 15px;
+}
+
+p:last-of-type{
+    padding-bottom: 10px;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(0,46,255,1) 0%, rgba(139,247,23,1) 51%, rgba(255,0,0,1) 100%);
+
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+main {
+    background: hsl(1, 100%, 100%, 50%);
+}
+
+ol {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+li {
+    padding: 2px;
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
+
+p a {
+    text-decoration: none;
+    color: black;
+}
+
+p a:hover {
+    color: blue;
+    text-decoration: underline;
+    background: hsl(1, 100%, 100%, 50%);
+}
+
+.reference:hover, .reference a:hover {
+    color: red;
+    text-decoration: underline;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.big-boi {
+    height: 350px;
+}
