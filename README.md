@@ -7,4 +7,4 @@ Simple HTML project to get familiar with
   * the workflow of git.
 
 
-[Preview link](https://htmlpreview.github.io/?https://github.com/konrascher3/odin-recipes/blob/main/index.html) for the finished project
+[Preview link](https://konrascher3.github.io/odin-recipes/) for the finished project
